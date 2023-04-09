@@ -1,0 +1,18 @@
+#kutu1{
+    width: 50px;
+    height: 50px;
+    background-color: #383838;
+    float: left;
+    position: absolute;
+    top:20px;
+}
+
+#kutu2{
+    width: 50px;
+    height: 50px;
+    background-color: orangered;
+    float: left;
+    position: absolute;
+    top:20px;
+    left:451px;
+}
